@@ -1,0 +1,8 @@
+{
+  "name": "PharmaDist - ARB-02 Supply Portal",
+  "description": "Portal distribusi B2B farmasi & FMCG terpadu untuk monitoring stok gudang, protokol FEFO, aktivitas sales lapangan, dan direktori mitra apotek & ritel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
